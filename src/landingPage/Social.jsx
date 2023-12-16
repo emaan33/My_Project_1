@@ -12,7 +12,7 @@ const Social = () => {
       <div className="social-area">
 
         <div className="pic-part">
-<div className="side-tabs">
+<div className="side-tabs-if">
 <div className='img-background instagram'><img src={instagram} alt="instagram" /></div>
 <div className='img-background'><img src={facebook} alt="facebook" /></div>
 

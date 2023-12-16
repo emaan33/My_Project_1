@@ -17,7 +17,7 @@ const Business = () => {
         <div className="divs">
 
 
-<div className="text-divs">
+<div className="color-div text-divs">
 <img  src={firstPic} alt="first" />
 <p className='div-para'>Today i need to have extra time
 after work to analyze all comapnys

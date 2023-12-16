@@ -9,7 +9,7 @@ const Map = () => {
         <p className='Map-H2'>Followers all around the Glob</p>
       </div>
       <div className='world'>
-        <img src={World} alt="map" />
+        <img className='world-img' src={World} alt="map" />
       </div>
       </div>
     </div>

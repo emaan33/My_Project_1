@@ -11,9 +11,11 @@ const Navbar = () => {
     </div>
     
     <div className='right'>
+        <div> <a className='link-contact' href="">Contact</a>
+        <a href="/login">Log In</a></div>
     <div className="links">
-        <a href="">Contact</a>
-        <a className='login' href="">Log In</a>
+   
+
     </div>
 <div className='btn'>
     <button className='me' >Buy Followers</button>
@@ -21,7 +23,7 @@ const Navbar = () => {
 </div>
 </div>
 
-    </div>
+    </div> 
   )
 }
 
